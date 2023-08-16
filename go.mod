@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/prometheus/client_model v0.4.0
 	github.com/prometheus/common v0.44.0
-	k8s.io/api v0.27.4
+	k8s.io/api v0.28.0
 	k8s.io/apimachinery v0.28.0
 	k8s.io/client-go v0.27.4
 	k8s.io/component-base v0.27.4
